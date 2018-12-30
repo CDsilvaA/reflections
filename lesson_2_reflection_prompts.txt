@@ -1,0 +1,32 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+The historic is created. It is needed to keep a chronological events for the commits and help organize all the files for analyze if there is a bug ou improve the code.
+
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+
+The staging area is for separate and organized the archives that will be upload. It is very important area for the organization of the archives.
+
+How can you use the staging area to make sure you have one commit per logical
+change?
+
+The staging area can be used for help the developer to verify the alterations that are made in the files.
+
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+
+Branches are helpfull to organize and keep clean the history of the alterations of the files. It is helpfull to return old features or test new features in the project.
+
+How do the diagrams help you visualize the branch structure?
+
+It helps to visualize the history of the creation of the commits.
+
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+
+The merging of two branches is the union of all alterations of the final features of the two branches, each. The representation on the diagram is needed because it tells the history log in a visual way.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges
+manually?
+
+One pro is the automatic merge of different functions and that does not adulterate the functionality of the code. But if the same part of the code if moved and maintain the same execution, the manually merge is the most recommended because if this is made automatically the code may be compromised and does not perform as it should be.
